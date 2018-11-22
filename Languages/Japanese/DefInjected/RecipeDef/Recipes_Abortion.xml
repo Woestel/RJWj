@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RJW_AbortionHuman.label>Abort pregnancy</RJW_AbortionHuman.label>
-  <RJW_AbortionHuman.description>This is legalised murder.</RJW_AbortionHuman.description>
-  <RJW_AbortionHuman.jobString>Carrying out abortion.</RJW_AbortionHuman.jobString>
+  <RJW_AbortionHuman.label>中絶させる</RJW_AbortionHuman.label>
+  <RJW_AbortionHuman.description>合法の殺人である.</RJW_AbortionHuman.description>
+  <RJW_AbortionHuman.jobString>中絶実行中.</RJW_AbortionHuman.jobString>
 
-  <RJW_AbortionBeast.label>Abort pregnancy</RJW_AbortionBeast.label>
-  <RJW_AbortionBeast.description>This is legalised murder.</RJW_AbortionBeast.description>
-  <RJW_AbortionBeast.jobString>Carrying out abortion.</RJW_AbortionBeast.jobString>
+  <RJW_AbortionBeast.label>中絶させる</RJW_AbortionBeast.label>
+  <RJW_AbortionBeast.description>合法の虐殺である.</RJW_AbortionBeast.description>
+  <RJW_AbortionBeast.jobString>中絶実行中.</RJW_AbortionBeast.jobString>
 
 
 </LanguageData>
