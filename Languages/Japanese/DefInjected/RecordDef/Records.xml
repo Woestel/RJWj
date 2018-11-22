@@ -17,40 +17,40 @@
   <CountOfSexWithInsects.description>虫とえっちした回数</CountOfSexWithInsects.description>
 
   <CountOfRaped.label>rapes done</CountOfRaped.label>
-  <CountOfRaped.description>The number of times I raped others.</CountOfRaped.description>
+  <CountOfRaped.description>レイプした回数</CountOfRaped.description>
 
   <CountOfRapedOthers.label>humanlikes raped</CountOfRapedOthers.label>
-  <CountOfRapedOthers.description>The number of times I raped humanlikes.</CountOfRapedOthers.description>
+  <CountOfRapedOthers.description>ヒトをレイプした回数</CountOfRapedOthers.description>
 
   <CountOfRapedAnimals.label>animals raped</CountOfRapedAnimals.label>
-  <CountOfRapedAnimals.description>The number of times I raped animals.</CountOfRapedAnimals.description>
+  <CountOfRapedAnimals.description>動物をレイプした回数</CountOfRapedAnimals.description>
 
   <CountOfRapedInsects.label>insects raped</CountOfRapedInsects.label>
-  <CountOfRapedInsects.description>The number of times I raped insects.</CountOfRapedInsects.description>
+  <CountOfRapedInsects.description>虫をレイプした回数</CountOfRapedInsects.description>
 
   <CountOfSexWithCorpse.label>corpses raped</CountOfSexWithCorpse.label>
-  <CountOfSexWithCorpse.description>The number of times I raped corpses.</CountOfSexWithCorpse.description>
+  <CountOfSexWithCorpse.description>死姦した回数</CountOfSexWithCorpse.description>
 
   <CountOfBeenRaped.label>rapes experienced</CountOfBeenRaped.label>
-  <CountOfBeenRaped.description>The number of times I got raped.</CountOfBeenRaped.description>
+  <CountOfBeenRaped.description>レイプされた回数</CountOfBeenRaped.description>
 
   <CountOfBeenRapedByOthers.label>rapes (by humanlikes) experienced</CountOfBeenRapedByOthers.label>
-  <CountOfBeenRapedByOthers.description>The number of times I got raped by humanlikes.</CountOfBeenRapedByOthers.description>
+  <CountOfBeenRapedByOthers.description>ヒトにレイプされた回数</CountOfBeenRapedByOthers.description>
 
   <CountOfBeenRapedByAnimals.label>rapes (by animals) experienced</CountOfBeenRapedByAnimals.label>
-  <CountOfBeenRapedByAnimals.description>The number of times I got bred by animals.</CountOfBeenRapedByAnimals.description>
+  <CountOfBeenRapedByAnimals.description>動物にレイプされた回数</CountOfBeenRapedByAnimals.description>
 
   <CountOfBeenRapedByInsects.label>rapes (by insects) experienced</CountOfBeenRapedByInsects.label>
-  <CountOfBeenRapedByInsects.description>The number of times I got raped by insects.</CountOfBeenRapedByInsects.description>
+  <CountOfBeenRapedByInsects.description>虫にレイプされた回数</CountOfBeenRapedByInsects.description>
 
   <GetRapedAsComfortPrisoner.label>rapes experienced as a designation target</GetRapedAsComfortPrisoner.label>
   <GetRapedAsComfortPrisoner.description>The number of times I got raped as a comfort prisoner/comfort colonist.</GetRapedAsComfortPrisoner.description>
 
   <CountOfWhore.label>whorin'</CountOfWhore.label>
-  <CountOfWhore.description>The number of times I sold myself.</CountOfWhore.description>
+  <CountOfWhore.description>春を売った回数</CountOfWhore.description>
 
   <EarnedMoneyByWhore.label>silvers earned as a whore</EarnedMoneyByWhore.label>
-  <EarnedMoneyByWhore.description>The amount of silvers I have earned as a whore.</EarnedMoneyByWhore.description>
+  <EarnedMoneyByWhore.description>売春で稼いだシルバー</EarnedMoneyByWhore.description>
 
 
 </LanguageData>
