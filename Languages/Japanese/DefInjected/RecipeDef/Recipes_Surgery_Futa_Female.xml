@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- natural penises -->
+    <AddPenis.label>普通のペニスを移植する</AddPenis.label>
+    <AddPenis.description>女性器に加えて, 普通のペニスを移植します.</AddPenis.description>
+    <AddPenis.jobString>普通のペニスを移植中</AddPenis.jobString>
+    <AddMicropenis.label>極小のペニスを移植する</AddMicropenis.label>
+    <AddMicropenis.description>女性器に加えて, 極小のペニスを移植します.</AddMicropenis.description>
+    <AddMicropenis.jobString>極小のペニスを移植中</AddMicropenis.jobString>
+    <addSmallPenis.label>小さいペニスを移植する</addSmallPenis.label>
+    <addSmallPenis.description>女性器に加えて, 小さいペニスを移植します.</addSmallPenis.description>
+    <addSmallPenis.jobString>小さいペニスを移植中</addSmallPenis.jobString>
+    <addBigPenis.label>大きいペニスを移植する</addBigPenis.label>
+    <addBigPenis.description>女性器に加えて, 大きいペニスを移植します.</addBigPenis.description>
+    <addBigPenis.jobString>大きいペニスを移植中</addBigPenis.jobString>
+    <addHugePenis.label>巨大なペニスを移植する</addHugePenis.label>
+    <addHugePenis.description>女性器に加えて, 巨大なペニスを移植します.</addHugePenis.description>
+    <addHugePenis.jobString>巨大なペニスを移植中</addHugePenis.jobString>
+    <addHorsePenis.label>馬のペニスを移植する</addHorsePenis.label>
+    <addHorsePenis.description>女性器に加えて, 馬のペニスを移植します.</addHorsePenis.description>
+    <addHorsePenis.jobString>馬のペニスを移植中</addHorsePenis.jobString>
+    <addCatPenis.label>猫のペニスを移植する</addCatPenis.label>
+    <addCatPenis.description>女性器に加えて, 猫のペニスを移植します.</addCatPenis.description>
+    <addCatPenis.jobString>猫のペニスを移植中</addCatPenis.jobString>
+    <addDogPenis.label>犬のペニスを移植する</addDogPenis.label>
+    <addDogPenis.description>女性器に加えて, 犬のペニスを移植します.</addDogPenis.description>
+    <addDogPenis.jobString>犬のペニスを移植中</addDogPenis.jobString>
+    <addDragonPenis.label>ドラゴンのペニスを移植する</addDragonPenis.label>
+    <addDragonPenis.description>女性器に加えて, ドラゴンのペニスを移植します.</addDragonPenis.description>
+    <addDragonPenis.jobString>ドラゴンのペニスを移植中</addDragonPenis.jobString>
+    <!-- bionic penis -->
+    <AddHydraulicPenis.label>人工陰茎を移植する</AddHydraulicPenis.label>
+    <AddHydraulicPenis.description>女性に対して追加の陰茎を移植します.</AddHydraulicPenis.description>
+    <AddHydraulicPenis.jobString>人工陰茎を移植中</AddHydraulicPenis.jobString>
+    <AddBionicPenis.label>強化陰茎を移植する</AddBionicPenis.label>
+    <AddBionicPenis.description>女性に対して追加の陰茎を移植します.</AddBionicPenis.description>
+    <AddBionicPenis.jobString>強化陰茎を移植中</AddBionicPenis.jobString>
+</LanguageData>

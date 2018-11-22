@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <RJW_pregnancy.label>妊娠</RJW_pregnancy.label>
+    <RJW_pregnancy.stages.0.label>初期</RJW_pregnancy.stages.0.label>
+    <RJW_pregnancy.stages.1.label>中期</RJW_pregnancy.stages.1.label>
+    <RJW_pregnancy.stages.2.label>臨月</RJW_pregnancy.stages.2.label>
+    <RJW_pregnancy.stages.3.label>陣痛</RJW_pregnancy.stages.3.label>
+    <RJW_pregnancy_beast.label>妊娠</RJW_pregnancy_beast.label>
+    <RJW_pregnancy_beast.stages.0.label>初期</RJW_pregnancy_beast.stages.0.label>
+    <RJW_pregnancy_beast.stages.1.label>中期</RJW_pregnancy_beast.stages.1.label>
+    <RJW_pregnancy_beast.stages.2.label>臨月</RJW_pregnancy_beast.stages.2.label>
+    <RJW_pregnancy_beast.stages.3.label>陣痛</RJW_pregnancy_beast.stages.3.label>
+</LanguageData>

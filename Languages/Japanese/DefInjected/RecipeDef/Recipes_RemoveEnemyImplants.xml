@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RemoveMegascarabEgg.label>remove insect egg</RemoveMegascarabEgg.label>
+  <RemoveMegascarabEgg.description>Removes insect egg.</RemoveMegascarabEgg.description>
+  <RemoveMegascarabEgg.jobString>Removing insect egg.</RemoveMegascarabEgg.jobString>
+
+  <RemoveMegaspiderEgg.label>remove insect egg</RemoveMegaspiderEgg.label>
+  <RemoveMegaspiderEgg.description>Removes insect egg.</RemoveMegaspiderEgg.description>
+  <RemoveMegaspiderEgg.jobString>Removing insect egg.</RemoveMegaspiderEgg.jobString>
+
+  <RemoveSpelopedeEgg.label>remove insect egg</RemoveSpelopedeEgg.label>
+  <RemoveSpelopedeEgg.description>Removes insect egg.</RemoveSpelopedeEgg.description>
+  <RemoveSpelopedeEgg.jobString>Removing insect egg.</RemoveSpelopedeEgg.jobString>
+
+  <RemoveMicroComputer.label>remove MicroComputer</RemoveMicroComputer.label>
+  <RemoveMicroComputer.description>Removes MicroComputer.</RemoveMicroComputer.description>
+  <RemoveMicroComputer.jobString>Removing MicroComputer.</RemoveMicroComputer.jobString>
+
+
+</LanguageData>

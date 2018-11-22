@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnalBreedingSucceeded.rulePack.rulesStrings.0>r_name-> [RECIPIENT_nameDef] was anally bred.</AnalBreedingSucceeded.rulePack.rulesStrings.0>
+  <VaginalBreedingSucceeded.rulePack.rulesStrings.0>r_name-> [RECIPIENT_nameDef] was vaginally bred.</VaginalBreedingSucceeded.rulePack.rulesStrings.0>
+  <BreedingFailed.rulePack.rulesStrings.0>r_name-> Can't breed with [RECIPIENT_nameDef].</BreedingFailed.rulePack.rulesStrings.0>
+
+
+</LanguageData>

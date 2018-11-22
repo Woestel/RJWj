@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnalRape.label>anal rape</AnalRape.label>
+  <AnalRape.logRulesInitiator.rulesStrings.0>r_logentry->Raped [RECIPIENT_nameDef].</AnalRape.logRulesInitiator.rulesStrings.0>
+  <AnalRape.logRulesRecipient.rulesStrings.0>r_logentry->Was raped by [INITIATOR_nameDef].</AnalRape.logRulesRecipient.rulesStrings.0>
+
+  <VaginalRape.label>vaginal rape</VaginalRape.label>
+  <VaginalRape.logRulesInitiator.rulesStrings.0>r_logentry->Raped [RECIPIENT_nameDef].</VaginalRape.logRulesInitiator.rulesStrings.0>
+  <VaginalRape.logRulesRecipient.rulesStrings.0>r_logentry->Was raped by [INITIATOR_nameDef].</VaginalRape.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <MakePegDick.label>木製ディルドを彫る</MakePegDick.label>
+    <MakePegDick.description>木片を彫刻してディルドを作成します.</MakePegDick.description>
+    <MakePegDick.jobString>木製ディルドを創作中.</MakePegDick.jobString>
+    <MakeHydraulicPenis.label>人工陰茎を作る</MakeHydraulicPenis.label>
+    <MakeHydraulicPenis.description>スチールとコンポーネントから人工陰茎を作成します.</MakeHydraulicPenis.description>
+    <MakeHydraulicPenis.jobString>人工陰茎を製作中</MakeHydraulicPenis.jobString>
+    <MakeBionicPenis.label>強化陰茎を作る</MakeBionicPenis.label>
+    <MakeBionicPenis.description>ハイパーウィーブ, プラスチール, 先進コンポーネントから強化陰茎を作成します.</MakeBionicPenis.description>
+    <MakeBionicPenis.jobString>強化陰茎を製作中</MakeBionicPenis.jobString>
+    <!--[Duplicated] <MakeHydraulicVagina.label>craft hydraulic vagina</MakeHydraulicVagina.label>-->
+    <!--[Duplicated] <MakeHydraulicVagina.description>Crafts a hydraulic vagina from steel and components.</MakeHydraulicVagina.description>-->
+    <!--[Duplicated] <MakeHydraulicVagina.jobString>Crafting hydraulic vagina.</MakeHydraulicVagina.jobString>-->
+    <!--[Duplicated] <MakeBionicVagina.label>craft bionic vagina</MakeBionicVagina.label>-->
+    <!--[Duplicated] <MakeBionicVagina.description>Crafts a bionic vagina from hyperweave, plasteel, and components.</MakeBionicVagina.description>-->
+    <!--[Duplicated] <MakeBionicVagina.jobString>Crafting bionic vagina.</MakeBionicVagina.jobString>-->
+    <MakeHydraulicVagina.label>人工膣を作る</MakeHydraulicVagina.label>
+    <MakeHydraulicVagina.description>スチールとコンポーネントから人工膣を作成します.</MakeHydraulicVagina.description>
+    <MakeHydraulicVagina.jobString>人工膣を製作中</MakeHydraulicVagina.jobString>
+    <MakeBionicVagina.label>強化膣を作る</MakeBionicVagina.label>
+    <MakeBionicVagina.description>ハイパーウィーブ, プラスチール, 先進コンポーネントから強化膣を作成します.</MakeBionicVagina.description>
+    <MakeBionicVagina.jobString>強化膣を製作中.</MakeBionicVagina.jobString>
+    <MakeHydraulicBreasts.label>人工乳房を作る</MakeHydraulicBreasts.label>
+    <MakeHydraulicBreasts.description>スチールとコンポーネントから人工乳房を作成します.</MakeHydraulicBreasts.description>
+    <MakeHydraulicBreasts.jobString>人工乳房を製作中</MakeHydraulicBreasts.jobString>
+    <MakeBionicBreasts.label>強化乳房を作る</MakeBionicBreasts.label>
+    <MakeBionicBreasts.description>ハイパーウィーブ, プラスチール, 先進コンポーネントから強化乳房を作成します.</MakeBionicBreasts.description>
+    <MakeBionicBreasts.jobString>強化乳房を製作中</MakeBionicBreasts.jobString>
+    <MakeHydraulicAnus.label>人工肛門を作る</MakeHydraulicAnus.label>
+    <MakeHydraulicAnus.description>スチール, コンポーネントから人工肛門を作成します.</MakeHydraulicAnus.description>
+    <MakeHydraulicAnus.jobString>Crafting hydraulic anus.</MakeHydraulicAnus.jobString>
+    <MakeBionicAnus.label>強化肛門を作る</MakeBionicAnus.label>
+    <MakeBionicAnus.description>ハイパーウィーブ, プラスチール, 先進コンポーネントから強化肛門を作成します.</MakeBionicAnus.description>
+    <MakeBionicAnus.jobString>強化肛門を製作中</MakeBionicAnus.jobString>
+</LanguageData>

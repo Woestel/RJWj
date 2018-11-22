@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- Simple prosthetic penises -->
+    <PegDick.label>木製ペニス</PegDick.label>
+    <PegDick.description>失ったペニスを置き換えるための木製のディルド. ささくれに気をつけてください.</PegDick.description>
+    <HydraulicPenis.label>人工陰茎</HydraulicPenis.label>
+    <HydraulicPenis.description>人工ペニス. 冷たい鉄のペニス. 流体供給システムを内蔵しています.</HydraulicPenis.description>
+    <!-- Simple prosthetic vaginas -->
+    <HydraulicVagina.label>人工膣</HydraulicVagina.label>
+    <HydraulicVagina.description>人工膣. 冷たい鉄の感触は不快ですが, 吸引力は物凄いです.</HydraulicVagina.description>
+    <!-- Simple prosthetic breasts -->
+    <HydraulicBreasts.label>人工乳房</HydraulicBreasts.label>
+    <HydraulicBreasts.description>人工胸. 増加したポンプ作用を持つ円錐形の金属は, あなたの友人を搾り取ります.</HydraulicBreasts.description>
+    <!-- Simple prosthetic anuses -->
+    <HydraulicAnus.label>人工肛門</HydraulicAnus.label>
+    <HydraulicAnus.description>人工肛門. 冷たい鉄の感触は不快ですが, 吸引力は物凄いです.</HydraulicAnus.description>
+    <!-- Bionic penises -->
+    <BionicPenis.label>強化陰茎</BionicPenis.label>
+    <BionicPenis.description>ハイテク人工ペニス. 以下の機能を含みます:\n- サイズ自動調整機能があらゆる膣にぴったりな大きさのペニスを提供します.\n- 50パターン以上の振動モード, 科学的に知られている最も刺激的な10のパターンを含みます.\n- 最高水準の神経インターフェースは, 想像を絶する快感のためにあなたが認識もしていなかった神経路を開拓します.</BionicPenis.description>
+    <!-- Bionic vaginas -->
+    <BionicVagina.label>強化膣</BionicVagina.label>
+    <BionicVagina.description>ハイテク人工膣. 以下の機能を含みます:\n- 膣内に並べられた150億のマイクロGスポット\n- あらゆるペニスにフィットするサイズ調整機能\n- 自動潤滑機能. 窒化ホウ素の疑似愛液は滑らかですがヌルヌルではありません. (あなたが望むならヌルヌルに切り替える事も可能です)</BionicVagina.description>
+    <!-- Bionic breasts -->
+    <BionicBreasts.label>強化乳房</BionicBreasts.label>
+    <BionicBreasts.description>ハイテク人工胸. 以下の機能を含みます:\nサイズ自動調整機能で望むままの大きさに変えられます.</BionicBreasts.description>
+    <!-- Bionic anuses -->
+    <BionicAnus.label>強化肛門</BionicAnus.label>
+    <BionicAnus.description>ハイテク人工肛門. 以下の機能を含みます:\n- サイズ自動調整機能で望むままの大きさに変えられます.\n- 自動潤滑機能. 窒化ホウ素の疑似愛液は滑らかですがヌルヌルではありません. (あなたが望むならヌルヌルに切り替える事も可能です)</BionicAnus.description>
+</LanguageData>

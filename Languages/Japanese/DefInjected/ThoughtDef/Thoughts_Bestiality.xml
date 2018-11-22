@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GotBredByAnimal.stages.0.label>raped by animal</GotBredByAnimal.stages.0.label>
+  <GotBredByAnimal.stages.0.description>An animal tried to breed with me.</GotBredByAnimal.stages.0.description>
+
+  <MasochistGotBredByAnimal.stages.0.label>raped by animal (Masochist)</MasochistGotBredByAnimal.stages.0.label>
+  <MasochistGotBredByAnimal.stages.0.description>An animal tried to breed with me. I kinda liked it...</MasochistGotBredByAnimal.stages.0.description>
+
+  <ZoophileGotBredByAnimal.stages.0.label>bred by animal (Zoophile)</ZoophileGotBredByAnimal.stages.0.label>
+  <ZoophileGotBredByAnimal.stages.0.description>An animal bred me.</ZoophileGotBredByAnimal.stages.0.description>
+
+  <GotLickedByAnimal.stages.0.label>raped by animal</GotLickedByAnimal.stages.0.label>
+  <GotLickedByAnimal.stages.0.description>An animal forced their tongue inside me.</GotLickedByAnimal.stages.0.description>
+
+  <MasochistGotLickedByAnimal.stages.0.label>raped by animal (Masochist)</MasochistGotLickedByAnimal.stages.0.label>
+  <MasochistGotLickedByAnimal.stages.0.description>An animal forced their tongue inside me. I kinda liked it...</MasochistGotLickedByAnimal.stages.0.description>
+
+  <ZoophileGotLickedByAnimal.stages.0.label>ravished by animal (Zoophile)</ZoophileGotLickedByAnimal.stages.0.label>
+  <ZoophileGotLickedByAnimal.stages.0.description>An animal ravished me.</ZoophileGotLickedByAnimal.stages.0.description>
+
+
+</LanguageData>

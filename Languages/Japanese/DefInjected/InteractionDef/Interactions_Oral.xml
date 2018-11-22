@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rimming.label>rimming</Rimming.label>
+  <Rimming.logRulesInitiator.rulesStrings.0>r_logentry->Licked the anus of [RECIPIENT_nameDef].</Rimming.logRulesInitiator.rulesStrings.0>
+  <Rimming.logRulesRecipient.rulesStrings.0>r_logentry->Was licked by [INITIATOR_nameDef].</Rimming.logRulesRecipient.rulesStrings.0>
+
+  <Cunnilingus.label>cunnilingus</Cunnilingus.label>
+  <Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->Licked the vagina of [RECIPIENT_nameDef].</Cunnilingus.logRulesInitiator.rulesStrings.0>
+  <Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->Was licked by [INITIATOR_nameDef].</Cunnilingus.logRulesRecipient.rulesStrings.0>
+
+  <Fellatio.label>Fellatio</Fellatio.label>
+  <Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->Sucked the penis of [RECIPIENT_nameDef].</Fellatio.logRulesInitiator.rulesStrings.0>
+  <Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->Had their penis sucked by [INITIATOR_nameDef].</Fellatio.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

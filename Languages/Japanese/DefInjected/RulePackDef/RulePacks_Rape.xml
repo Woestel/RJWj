@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnalRapeSucceeded.rulePack.rulesStrings.0>r_name-> [RECIPIENT_nameDef] was anally raped.</AnalRapeSucceeded.rulePack.rulesStrings.0>
+  <AnalRapeFailed.rulePack.rulesStrings.0>r_name-> [RECIPIENT_nameDef] has no anus.</AnalRapeFailed.rulePack.rulesStrings.0>
+  <VaginalRapeSucceeded.rulePack.rulesStrings.0>r_name-> [RECIPIENT_nameDef] was vaginally raped.</VaginalRapeSucceeded.rulePack.rulesStrings.0>
+  <VaginalRapeFailed.rulePack.rulesStrings.0>r_name-> [RECIPIENT_nameDef] has no vagina.</VaginalRapeFailed.rulePack.rulesStrings.0>
+  <OtherRapeSucceeded.rulePack.rulesStrings.0>r_name-> [RECIPIENT_nameDef] was raped.</OtherRapeSucceeded.rulePack.rulesStrings.0>
+
+
+</LanguageData>

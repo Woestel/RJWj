@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Hololock.label>ホロロック</Hololock.label>
+    <Hololock.description>ハイテクなロック機構. 以下の機能を含みます:\n- 強化プラスチール製, 非常に頑丈です\n- 錠を開くための鍵のUIDは暗号化され, ホログラムとして翡翠基板に埋め込まれます, 鍵の複製を作られる心配はありません\n- 不正解錠された場合は自己崩壊機能が作動し, 施錠した物品が敵によって再利用される事を防ぎます\n\n元々は軍事用に設計されたものですが, ホロロックはBDSM愛好者の間で人気となりました, 区別を付けやすいように, 慣習的に錠と鍵のペアには名前が彫り込まれます.</Hololock.description>
+    <Holokey.label>ホロキー</Holokey.label>
+    <Holokey.description>ハイテクな鍵. 一致する暗号パターンを持つアイテムのロックを解除します.</Holokey.description>
+    <Holokey.comps.2.useLabel>解錠している</Holokey.comps.2.useLabel>
+</LanguageData>

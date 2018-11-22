@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- Insect privates parts -->
+    <OvipositorM.label>産卵管 (♂)</OvipositorM.label>
+    <OvipositorM.description>昆虫により卵を産み付けるのに使われる産卵管です.</OvipositorM.description>
+    <OvipositorF.label>産卵管 (♀)</OvipositorF.label>
+    <OvipositorF.description>昆虫により卵を産むのに使われる産卵管です.</OvipositorF.description>
+    <InsectAnus.label>総排泄孔</InsectAnus.label>
+    <InsectAnus.description>昆虫の総排泄孔です.</InsectAnus.description>
+</LanguageData>

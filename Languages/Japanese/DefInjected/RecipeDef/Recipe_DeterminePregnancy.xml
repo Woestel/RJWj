@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DeterminePregnancy.label>determine pregnancy</DeterminePregnancy.label>
+  <DeterminePregnancy.description>Determines if a colonist is pregnant or not.</DeterminePregnancy.description>
+  <DeterminePregnancy.jobString>Determining if colonist is pregnant.</DeterminePregnancy.jobString>
+
+
+</LanguageData>

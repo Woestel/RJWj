@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AnalSexSucceeded.rulePack.rulesStrings.0>r_name-> [RECIPIENT_nameDef] had anal sex.</AnalSexSucceeded.rulePack.rulesStrings.0>
+  <AnalSexFailed.rulePack.rulesStrings.0>r_name-> [RECIPIENT_nameDef] has no anus.</AnalSexFailed.rulePack.rulesStrings.0>
+  <VaginalSexSucceeded.rulePack.rulesStrings.0>r_name-> [RECIPIENT_nameDef] had vaginal sex.</VaginalSexSucceeded.rulePack.rulesStrings.0>
+  <VaginalSexFailed.rulePack.rulesStrings.0>r_name-> [RECIPIENT_nameDef] has no vagina.</VaginalSexFailed.rulePack.rulesStrings.0>
+  <OtherSexSucceeded.rulePack.rulesStrings.0>r_name-> [RECIPIENT_nameDef] had sex.</OtherSexSucceeded.rulePack.rulesStrings.0>
+
+
+</LanguageData>
