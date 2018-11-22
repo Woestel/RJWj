@@ -3,9 +3,9 @@
 
   <!-- Remove privates -->
 
-  <RemoveGenitals.label>remove genitals</RemoveGenitals.label>
-  <RemoveGenitals.description>Removes sex organs.</RemoveGenitals.description>
-  <RemoveGenitals.jobString>Removing genitals.</RemoveGenitals.jobString>
+  <RemoveGenitals.label>性器切除</RemoveGenitals.label>
+  <RemoveGenitals.description>生殖器を取り除きます.</RemoveGenitals.description>
+  <RemoveGenitals.jobString>性器切除中.</RemoveGenitals.jobString>
 
 
   <!-- <RecipeDef ParentName="SexReassignment">
@@ -68,13 +68,13 @@
 		</appliedOnFixedBodyParts>
 	</RecipeDef> -->
 
-  <RemoveBreasts.label>remove breasts</RemoveBreasts.label>
-  <RemoveBreasts.description>Removes breasts.</RemoveBreasts.description>
-  <RemoveBreasts.jobString>Removing breasts.</RemoveBreasts.jobString>
+  <RemoveBreasts.label>乳房切除</RemoveBreasts.label>
+  <RemoveBreasts.description>乳房を取り除きます.</RemoveBreasts.description>
+  <RemoveBreasts.jobString>乳房切除中.</RemoveBreasts.jobString>
 
-  <RemoveAnus.label>remove anus</RemoveAnus.label>
-  <RemoveAnus.description>Removes anus.</RemoveAnus.description>
-  <RemoveAnus.jobString>Removing anus.</RemoveAnus.jobString>
+  <RemoveAnus.label>アナル切除</RemoveAnus.label>
+  <RemoveAnus.description>アナルを取り除きます.</RemoveAnus.description>
+  <RemoveAnus.jobString>アナル切除中.</RemoveAnus.jobString>
 
 
 </LanguageData>
