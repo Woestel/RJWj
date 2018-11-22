@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RemoveMegascarabEgg.label>remove insect egg</RemoveMegascarabEgg.label>
-  <RemoveMegascarabEgg.description>Removes insect egg.</RemoveMegascarabEgg.description>
-  <RemoveMegascarabEgg.jobString>Removing insect egg.</RemoveMegascarabEgg.jobString>
+  <RemoveMegascarabEgg.label>インセクトエッグ除去</RemoveMegascarabEgg.label>
+  <RemoveMegascarabEgg.description>インセクトエッグを掻き出します.</RemoveMegascarabEgg.description>
+  <RemoveMegascarabEgg.jobString>インセクトエッグ除去中.</RemoveMegascarabEgg.jobString>
 
-  <RemoveMegaspiderEgg.label>remove insect egg</RemoveMegaspiderEgg.label>
-  <RemoveMegaspiderEgg.description>Removes insect egg.</RemoveMegaspiderEgg.description>
-  <RemoveMegaspiderEgg.jobString>Removing insect egg.</RemoveMegaspiderEgg.jobString>
+  <RemoveMegaspiderEgg.label>インセクトエッグ除去</RemoveMegaspiderEgg.label>
+  <RemoveMegaspiderEgg.description>インセクトエッグを掻き出します.</RemoveMegaspiderEgg.description>
+  <RemoveMegaspiderEgg.jobString>インセクトエッグ除去中.</RemoveMegaspiderEgg.jobString>
 
-  <RemoveSpelopedeEgg.label>remove insect egg</RemoveSpelopedeEgg.label>
-  <RemoveSpelopedeEgg.description>Removes insect egg.</RemoveSpelopedeEgg.description>
-  <RemoveSpelopedeEgg.jobString>Removing insect egg.</RemoveSpelopedeEgg.jobString>
+  <RemoveSpelopedeEgg.label>インセクトエッグ除去</RemoveSpelopedeEgg.label>
+  <RemoveSpelopedeEgg.description>インセクトエッグを掻き出します.</RemoveSpelopedeEgg.description>
+  <RemoveSpelopedeEgg.jobString>インセクトエッグ除去中.</RemoveSpelopedeEgg.jobString>
 
-  <RemoveMicroComputer.label>remove MicroComputer</RemoveMicroComputer.label>
-  <RemoveMicroComputer.description>Removes MicroComputer.</RemoveMicroComputer.description>
-  <RemoveMicroComputer.jobString>Removing MicroComputer.</RemoveMicroComputer.jobString>
+  <RemoveMicroComputer.label>マイクロコンピュータ除去</RemoveMicroComputer.label>
+  <RemoveMicroComputer.description>マイクロコンピュータを掻き出します.</RemoveMicroComputer.description>
+  <RemoveMicroComputer.jobString>マイクロコンピュータ除去中.</RemoveMicroComputer.jobString>
 
 
 </LanguageData>
