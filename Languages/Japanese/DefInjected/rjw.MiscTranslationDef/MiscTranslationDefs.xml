@@ -20,7 +20,7 @@
 Though [PAWN_nameDef] can be hard to get along with you've come to appreciate how [PAWN_pronoun]'s more practical than the others.\n
 You explain to [PAWN_objective], "See these things here? They need to be over there" and "Those people are trying to kill us, so let's kill them first." [PAWN_pronoun] listens, and does what is necessary.</rjw_feisty.description>
 
-怒れるニンフ
+怒れるニンフ（x 高度な作業、看護、動物の世話、アート、清掃）
 
   <rjw_curious.label>Curious Nymph</rjw_curious.label>
   <rjw_curious.description>Hold the covering plate back and place the actuator in slot C. Line the rod up. No, that won't do, it needs to be perfect. Now pop the JC-444 chip in place.\n
@@ -28,25 +28,32 @@ Solder the orange wire to pin #16 and the striped wire to pin #5.\n
 Suddenly, there [PAWN_pronoun] is. You aren't surprised to see [PAWN_nameDef], you just didn't hear [PAWN_objective] approach. By now you're used to it.\n
 You continue your work in silence as [PAWN_pronoun] hovers over you, her large eyes fixated on the rapid, rythmic, deliberate motions of your hands.</rjw_curious.description>
 
-好奇心ニンフ
+カバープレートを備えておき、アクチュエータをスロットCに置く。ロッドを上に向ける。うまくいかない、完璧にしないと。急いでJC-444チップを取り付ける。
+オレンジのワイヤーを16番ピンに、ストライプのワイヤーを5番ピンにハンダ付け。
+突然、彼女はそこにいた。あなたはJANEを見て驚くことはありません、あなたは彼女のアプローチを聞いていないだけです。今ではもう慣れていた。
+彼女があなたの上に乗っている間、あなたの仕事は静かに続き、あなたの手の素早く、リズミカルで、意図的な動きに彼女の大きな目は釘付けになっている。
+
+好奇心ニンフ（建築、工芸）（x 雑用、戦闘、看護、動物の世話、アート、料理、農業、採掘）
 
   <rjw_tender.label>Tender Nymph</rjw_tender.label>
   <rjw_tender.description>[PAWN_nameDef] has a pair of charming eyes, and [PAWN_possessive] voice is soft and sweet. Due to [PAWN_possessive] previous nurse job, [PAWN_pronoun] tends people quite well.\n
 [PAWN_pronoun]'s crouched in the corner, hands over [PAWN_possessive] ears and tears in [PAWN_possessive] eyes. You don't understand, then you notice it: the distant sound of the pained squeals of pigs being slaughtered.</rjw_tender.description>
 
-柔和なニンフ
+柔和なニンフ（x 高度な作業、戦闘、動物の世話、アート、運搬）
+[PAWN_nameDef]は魅力的な目と柔らかくて甘い声をしている。以前看護師をしていたおかげか、人当たりが良い。\n
+[PAWN_pronoun]は部屋の隅にうずくまり、耳をふさぎ涙をこぼした。屠殺される豚の悲鳴に気づいても、あなたはそれを理解できなかった。
 
   <rjw_chatty.label>Chatty Nymph</rjw_chatty.label>
   <rjw_chatty.description>No one can be more loquacious than [PAWN_nameDef]. [PAWN_pronoun] has a flexible tongue, a sharp mind, and hot lips.</rjw_chatty.description>
 
-おしゃべりニンフ
+おしゃべりニンフ（x　雑用、高度な作業、戦闘、看護、動物の世話、アート）
 [PAWN_nameDef]ほど饒舌な者は居ないでしょう。[PAWN_pronoun]はよく舌が回り、抜け目なく、艶やかな唇を持っています。
 
   <rjw_broken.label>Broken Nymph</rjw_broken.label>
   <rjw_broken.description>Maybe [PAWN_nameDef] suffered some terrible things, [PAWN_pronoun] looks rather emaciated, and no one wants to speak with [PAWN_objective].\n
 [PAWN_pronoun] only behaves a bit vivaciously while staring at some rod-like stuffs.</rjw_broken.description>
 
-壊れたニンフ
+壊れたニンフ（アート）（x　高度な作業、戦闘、看護、動物の世話、清掃）
 
 
 </LanguageData>
