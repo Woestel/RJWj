@@ -3,62 +3,62 @@
 
   <!-- Simple prosthetic penises -->
 
-  <PegDick.label>peg dick</PegDick.label>
-  <PegDick.description>A wooden dildo designed to replace a missing penis. Be careful of splinters.</PegDick.description>
+  <PegDick.label>木製ペニス</PegDick.label>
+  <PegDick.description>失ったペニスを置き換えるための木製のディルド. ささくれに気をつけてください.</PegDick.description>
 
-  <HydraulicPenis.label>hydraulic penis</HydraulicPenis.label>
-  <HydraulicPenis.description>A prosthetic penis. Cold metal phallus. Has built in fluid delivery system.</HydraulicPenis.description>
+  <HydraulicPenis.label>人工陰茎</HydraulicPenis.label>
+  <HydraulicPenis.description>人工ペニス. 冷たい鉄のペニス. 流体供給システムを内蔵しています.</HydraulicPenis.description>
 
 
   <!-- Simple prosthetic vaginas -->
 
-  <HydraulicVagina.label>hydraulic vagina</HydraulicVagina.label>
-  <HydraulicVagina.description>A prosthetic vagina. Its cold metal grip is uncomfortable but it has great suction power.</HydraulicVagina.description>
+  <HydraulicVagina.label>人工膣</HydraulicVagina.label>
+  <HydraulicVagina.description>人工膣. 冷たい鉄の感触は不快ですが, 吸引力は物凄いです.</HydraulicVagina.description>
 
 
   <!-- Simple prosthetic breasts -->
 
-  <HydraulicBreasts.label>hydraulic breasts</HydraulicBreasts.label>
-  <HydraulicBreasts.description>Prosthetic breasts. Conical metal with increased pumping action, spray your friends.</HydraulicBreasts.description>
+  <HydraulicBreasts.label>人工乳房</HydraulicBreasts.label>
+  <HydraulicBreasts.description>人工胸. 増加したポンプ作用を持つ円錐形の金属は, あなたの友人を搾り取ります.</HydraulicBreasts.description>
 
 
   <!-- Simple prosthetic anuses -->
 
-  <HydraulicAnus.label>hydraulic anus</HydraulicAnus.label>
-  <HydraulicAnus.description>A prosthetic anus. Its cold metal grip is uncomfortable but it has great suction power.</HydraulicAnus.description>
+  <HydraulicAnus.label>人工肛門</HydraulicAnus.label>
+  <HydraulicAnus.description>人工肛門. 冷たい鉄の感触は不快ですが, 吸引力は物凄いです.</HydraulicAnus.description>
 
 
   <!-- Bionic penises -->
 
-  <BionicPenis.label>bionic penis</BionicPenis.label>
-  <BionicPenis.description>A high-tech prosthetic penis. Features include:
-- Adjustable size allows you to fit in any vagina.
-- Over 50 different vibration modes, including 10 of the most stimulating waveforms known to science
-- State-of-the-art neural interface activates neural pathways you didn't even know you had to make you feel things you never even imagined.</BionicPenis.description>
+  <BionicPenis.label>強化陰茎</BionicPenis.label>
+  <BionicPenis.description>ハイテク人工ペニス. 以下の機能を含みます:
+- サイズ自動調整機能があらゆる膣にぴったりな大きさのペニスを提供します.
+- 50パターン以上の振動モード, 科学的に知られている最も刺激的な10のパターンを含みます.
+- 最高水準の神経インターフェースは, 想像を絶する快感のためにあなたが認識もしていなかった神経路を開拓します.</BionicPenis.description>
 
 
   <!-- Bionic vaginas -->
 
-  <BionicVagina.label>bionic vagina</BionicVagina.label>
+  <BionicVagina.label>強化膣</BionicVagina.label>
   <BionicVagina.description>A high-tech prosthetic vagina. Features include:
-- Interior lined with 150 million micro-g-spots
-- Resizes to fit any penis
-- Auto-lubrication with boro-graphitic pseudofluid, smooth but never slimy (includes toggleable sliminess in case you're into that)</BionicVagina.description>
+- 膣内に並べられた150億のマイクロGスポット
+- あらゆるペニスにフィットするサイズ調整機能
+- 自動潤滑機能. 窒化ホウ素の疑似愛液は滑らかですがヌルヌルではありません. (あなたが望むならヌルヌルに切り替える事も可能です)</BionicVagina.description>
 
 
   <!-- Bionic breasts -->
 
-  <BionicBreasts.label>bionic breasts</BionicBreasts.label>
-  <BionicBreasts.description>High-tech prosthetic breasts. Features include:
-- Resizes to any desired size</BionicBreasts.description>
+  <BionicBreasts.label>強化乳房</BionicBreasts.label>
+  <BionicBreasts.description>ハイテク人工胸. 以下の機能を含みます:
+- サイズ自動調整機能で望むままの大きさに変えられます.</BionicBreasts.description>
 
 
   <!-- Bionic anuses -->
 
-  <BionicAnus.label>bionic anus</BionicAnus.label>
-  <BionicAnus.description>A high-tech prosthetic anus. Features include:
-- Resizes to any desired size
-- Auto-lubrication with boro-graphitic pseudofluid, smooth but never slimy (includes toggleable sliminess in case you're into that)</BionicAnus.description>
+  <BionicAnus.label>強化肛門</BionicAnus.label>
+  <BionicAnus.description>ハイテク人工肛門. 以下の機能を含みます:
+- サイズ自動調整機能で望むままの大きさに変えられます.
+- 自動潤滑機能. 窒化ホウ素の疑似愛液は滑らかですがヌルヌルではありません. (あなたが望むならヌルヌルに切り替える事も可能です)</BionicAnus.description>
 
 
 </LanguageData>

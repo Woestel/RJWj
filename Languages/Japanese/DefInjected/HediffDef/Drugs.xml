@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HumpShroomEffect.label>Induced libido</HumpShroomEffect.label>
+  <HumpShroomEffect.label>催淫状態</HumpShroomEffect.label>
 
 
   <!-- Ambrosia addiction -->
 
-  <HumpShroomTolerance.label>humpshroom tolerance</HumpShroomTolerance.label>
-  <HumpShroomTolerance.stages.0.label>small</HumpShroomTolerance.stages.0.label>
-  <HumpShroomTolerance.stages.1.label>small</HumpShroomTolerance.stages.1.label>
-  <HumpShroomTolerance.stages.2.label>large</HumpShroomTolerance.stages.2.label>
-  <HumpShroomTolerance.stages.3.label>massive</HumpShroomTolerance.stages.3.label>
+  <HumpShroomTolerance.label>サカリダケ 耐性</HumpShroomTolerance.label>
+  <HumpShroomTolerance.stages.0.label>小</HumpShroomTolerance.stages.0.label>
+  <HumpShroomTolerance.stages.1.label>中</HumpShroomTolerance.stages.1.label>
+  <HumpShroomTolerance.stages.2.label>大</HumpShroomTolerance.stages.2.label>
+  <HumpShroomTolerance.stages.3.label>極大</HumpShroomTolerance.stages.3.label>
 
-  <HumpShroomAddiction.label>humpshroom addiction</HumpShroomAddiction.label>
-  <HumpShroomAddiction.stages.0.label>withdrawal</HumpShroomAddiction.stages.0.label>
+  <HumpShroomAddiction.label>サカリダケ 中毒</HumpShroomAddiction.label>
+  <HumpShroomAddiction.stages.0.label>離脱症状</HumpShroomAddiction.stages.0.label>
 
 
   <!-- As usual stolen from CnP -->
 
-  <RJW_Contraceptive.label>contraceptive</RJW_Contraceptive.label>
-  <RJW_Contraceptive.stages.0.label>Contracepted</RJW_Contraceptive.stages.0.label>
+  <RJW_Contraceptive.label>避妊薬</RJW_Contraceptive.label>
+  <RJW_Contraceptive.stages.0.label>避妊薬服用中</RJW_Contraceptive.stages.0.label>
 
 
 </LanguageData>

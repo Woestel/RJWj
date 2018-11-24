@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Hololock.label>Hololock</Hololock.label>
-  <Hololock.description>A high-tech locking mechanism. Features include:
-- Extremely hardy, plasteel-reinforced build
-- Key and lock paired using a cryptographic UID holographically embedded in a jade substrate, ensuring counterfeit keys are impossible to produce
-- Self-destruct failsafe triggers when the lock is tampered with, ensuring that the protected item is destroyed rather than captured by the enemy
+  <Hololock.label>ホロロック</Hololock.label>
+  <Hololock.description>ハイテクなロック機構. 以下の機能を含みます:
+- 強化プラスチール製, 非常に頑丈です
+- 錠を開くための鍵のUIDは暗号化され, ホログラムとして翡翠基板に埋め込まれます, 鍵の複製を作られる心配はありません
+- 不正解錠された場合は自己崩壊機能が作動し, 施錠した物品が敵によって再利用される事を防ぎます
 
-Originally designed for military use, the hololock has since become popular in the BDSM community, where it is customary to engrave a key and lock pair with matching names so they are easier to identify.</Hololock.description>
+元々は軍事用に設計されたものですが, ホロロックはBDSM愛好者の間で人気となりました, 区別を付けやすいように, 慣習的に錠と鍵のペアには名前が彫り込まれます.</Hololock.description>
 
-  <Holokey.label>Holokey</Holokey.label>
-  <Holokey.description>A high-tech key. Releases the lock on an item with a matching cryptographic stamp.</Holokey.description>
-  <Holokey.comps.2.useLabel>Unlock apparel</Holokey.comps.2.useLabel>
+  <Holokey.label>ホロキー</Holokey.label>
+  <Holokey.description>ハイテクな鍵. 一致する暗号パターンを持つアイテムのロックを解除します.</Holokey.description>
+  <Holokey.comps.2.useLabel>解錠している</Holokey.comps.2.useLabel>
 
 
 </LanguageData>

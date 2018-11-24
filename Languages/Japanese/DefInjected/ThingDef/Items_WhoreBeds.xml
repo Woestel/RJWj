@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WhoreSleepingSpot.label>whore sleeping spot</WhoreSleepingSpot.label>
-  <WhoreSleepingSpot.description>Designates a spot on the ground where people whore.</WhoreSleepingSpot.description>
+  <WhoreSleepingSpot.label>売春用寝床</WhoreSleepingSpot.label>
+  <WhoreSleepingSpot.description>人が売春する場所を, 地面の上に指示します.</WhoreSleepingSpot.description>
 
-  <BedWhore.label>whore bed</BedWhore.label>
-  <BedWhore.description>A bed specially designed for whores.</BedWhore.description>
+  <BedWhore.label>売春用ベッド</BedWhore.label>
+  <BedWhore.description>売春婦のために特別に設計されたベッドです.</BedWhore.description>
 
-  <DoubleBedWhore.label>double whore bed</DoubleBedWhore.label>
-  <DoubleBedWhore.description>A simple double-wide bed that fits two people, specially designed for whores.</DoubleBedWhore.description>
+  <DoubleBedWhore.label>売春用ダブルベッド</DoubleBedWhore.label>
+  <DoubleBedWhore.description>シンプルで,二人で寝るにはちょうど良いダブルベッドです, 売春婦のために特別に設計されています.</DoubleBedWhore.description>
 
-  <RoyalBedWhore.label>royal whore bed</RoyalBedWhore.label>
-  <RoyalBedWhore.description>A luxurious gold-inlaid bed fit for the highborn whores. Very comfy and beautiful. Fits two.</RoyalBedWhore.description>
+  <RoyalBedWhore.label>豪華な売春用ベッド</RoyalBedWhore.label>
+  <RoyalBedWhore.description>高貴な生まれの売春婦にピッタリの豪華な金がちりばめられたベッドです.非常に快適で美しく,それ自体が工芸品です.二人で寝るのにぴったりです.</RoyalBedWhore.description>
 
 
 </LanguageData>

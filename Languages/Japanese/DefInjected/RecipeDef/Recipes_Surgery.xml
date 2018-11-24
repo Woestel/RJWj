@@ -3,162 +3,162 @@
 
   <!-- Attach natural privates -->
 
-  <AttachPenis.label>attach penis</AttachPenis.label>
-  <AttachPenis.description>Attaches a penis replacing other bodyparts if present.</AttachPenis.description>
-  <AttachPenis.jobString>Attaching penis.</AttachPenis.jobString>
+  <AttachPenis.label>普通のペニスを移植する</AttachPenis.label>
+  <AttachPenis.description>普通のペニスを移植します, 膣があれば置き換えられます.</AttachPenis.description>
+  <AttachPenis.jobString>普通のペニスを移植中</AttachPenis.jobString>
 
-  <InstallVagina.label>install vagina</InstallVagina.label>
-  <InstallVagina.description>Installs a vagina.</InstallVagina.description>
-  <InstallVagina.jobString>Installing vagina.</InstallVagina.jobString>
+  <InstallVagina.label>普通の膣を移植する</InstallVagina.label>
+  <InstallVagina.description>普通の膣を移植します.</InstallVagina.description>
+  <InstallVagina.jobString>普通の膣を移植中</InstallVagina.jobString>
 
-  <InstallMicroVagina.label>install micro vagina</InstallMicroVagina.label>
-  <InstallMicroVagina.description>Installs a micro vagina.</InstallMicroVagina.description>
-  <InstallMicroVagina.jobString>Installing micro vagina.</InstallMicroVagina.jobString>
+  <InstallMicroVagina.label>極小の膣を移植する</InstallMicroVagina.label>
+  <InstallMicroVagina.description>極小の膣を移植します.</InstallMicroVagina.description>
+  <InstallMicroVagina.jobString>極小の膣を移植中</InstallMicroVagina.jobString>
 
-  <InstallTightVagina.label>install tight vagina</InstallTightVagina.label>
-  <InstallTightVagina.description>Installs a tight vagina.</InstallTightVagina.description>
-  <InstallTightVagina.jobString>Installing tight vagina.</InstallTightVagina.jobString>
+  <InstallTightVagina.label>キツい膣を移植する</InstallTightVagina.label>
+  <InstallTightVagina.description>キツい膣を移植します.</InstallTightVagina.description>
+  <InstallTightVagina.jobString>キツい膣を移植中</InstallTightVagina.jobString>
 
-  <InstallLooseVagina.label>install loose vagina</InstallLooseVagina.label>
-  <InstallLooseVagina.description>Installs a loose vagina.</InstallLooseVagina.description>
-  <InstallLooseVagina.jobString>Installing loose vagina.</InstallLooseVagina.jobString>
+  <InstallLooseVagina.label>ユルい膣を移植する</InstallLooseVagina.label>
+  <InstallLooseVagina.description>ユルい膣を移植します.</InstallLooseVagina.description>
+  <InstallLooseVagina.jobString>ユルい膣を移植中</InstallLooseVagina.jobString>
 
-  <InstallGapingVagina.label>install gaping vagina</InstallGapingVagina.label>
-  <InstallGapingVagina.description>Installs a gaping vagina.</InstallGapingVagina.description>
-  <InstallGapingVagina.jobString>Installing gaping vagina.</InstallGapingVagina.jobString>
+  <InstallGapingVagina.label>拡がりきった膣を移植する</InstallGapingVagina.label>
+  <InstallGapingVagina.description>拡がりきった膣を移植します.</InstallGapingVagina.description>
+  <InstallGapingVagina.jobString>拡がりきった膣を移植中</InstallGapingVagina.jobString>
 
-  <InstallCatVagina.label>install feline vagina</InstallCatVagina.label>
-  <InstallCatVagina.description>Installs a feline vagina.</InstallCatVagina.description>
-  <InstallCatVagina.jobString>Installing feline vagina.</InstallCatVagina.jobString>
+  <InstallCatVagina.label>猫の膣を移植する</InstallCatVagina.label>
+  <InstallCatVagina.description>猫の膣を移植します.</InstallCatVagina.description>
+  <InstallCatVagina.jobString>猫の膣を移植中</InstallCatVagina.jobString>
 
-  <InstallDogVagina.label>install canine vagina</InstallDogVagina.label>
-  <InstallDogVagina.description>Installs a canine vagina.</InstallDogVagina.description>
-  <InstallDogVagina.jobString>Installing canine vagina.</InstallDogVagina.jobString>
+  <InstallDogVagina.label>犬の膣を移植する</InstallDogVagina.label>
+  <InstallDogVagina.description>犬の膣を移植します.</InstallDogVagina.description>
+  <InstallDogVagina.jobString>犬の膣を移植中</InstallDogVagina.jobString>
 
-  <InstallHorseVagina.label>install equine vagina</InstallHorseVagina.label>
-  <InstallHorseVagina.description>Installs a equine vagina.</InstallHorseVagina.description>
-  <InstallHorseVagina.jobString>Installing equine vagina.</InstallHorseVagina.jobString>
+  <InstallHorseVagina.label>馬の膣を移植する</InstallHorseVagina.label>
+  <InstallHorseVagina.description>馬の膣を移植します.</InstallHorseVagina.description>
+  <InstallHorseVagina.jobString>馬の膣を移植中</InstallHorseVagina.jobString>
 
-  <InstallDragonVagina.label>install dragon vagina</InstallDragonVagina.label>
-  <InstallDragonVagina.description>Installs a dragon vagina.</InstallDragonVagina.description>
-  <InstallDragonVagina.jobString>Installing dragon vagina.</InstallDragonVagina.jobString>
+  <InstallDragonVagina.label>ドラゴンの膣を移植する</InstallDragonVagina.label>
+  <InstallDragonVagina.description>ドラゴンの膣を移植します.</InstallDragonVagina.description>
+  <InstallDragonVagina.jobString>ドラゴンの膣を移植中</InstallDragonVagina.jobString>
 
-  <AttachMicroPenis.label>attach micro penis</AttachMicroPenis.label>
-  <AttachMicroPenis.description>Attaches a micro penis.</AttachMicroPenis.description>
-  <AttachMicroPenis.jobString>Attaching micro penis.</AttachMicroPenis.jobString>
+  <AttachMicroPenis.label>極小のペニスを移植する</AttachMicroPenis.label>
+  <AttachMicroPenis.description>極小のペニスを移植します.</AttachMicroPenis.description>
+  <AttachMicroPenis.jobString>極小のペニスを移植中</AttachMicroPenis.jobString>
 
-  <AttachSmallPenis.label>attach small penis</AttachSmallPenis.label>
-  <AttachSmallPenis.description>Attaches a small penis.</AttachSmallPenis.description>
-  <AttachSmallPenis.jobString>Attaching small penis.</AttachSmallPenis.jobString>
+  <AttachSmallPenis.label>小さなペニスを移植する</AttachSmallPenis.label>
+  <AttachSmallPenis.description>小さなペニスを移植します.</AttachSmallPenis.description>
+  <AttachSmallPenis.jobString>小さなペニスを移植中</AttachSmallPenis.jobString>
 
-  <AttachBigPenis.label>attach big penis</AttachBigPenis.label>
-  <AttachBigPenis.description>Attaches a big penis.</AttachBigPenis.description>
-  <AttachBigPenis.jobString>Attaching big penis.</AttachBigPenis.jobString>
+  <AttachBigPenis.label>大きなペニスを移植する</AttachBigPenis.label>
+  <AttachBigPenis.description>大きなペニスを移植します.</AttachBigPenis.description>
+  <AttachBigPenis.jobString>大きなペニスを移植中</AttachBigPenis.jobString>
 
-  <AttachHugePenis.label>attach huge penis</AttachHugePenis.label>
-  <AttachHugePenis.description>Attaches a huge penis.</AttachHugePenis.description>
-  <AttachHugePenis.jobString>Attaching huge penis.</AttachHugePenis.jobString>
+  <AttachHugePenis.label>巨大なペニスを移植する</AttachHugePenis.label>
+  <AttachHugePenis.description>巨大なペニスを移植します.</AttachHugePenis.description>
+  <AttachHugePenis.jobString>巨大なペニスを移植中</AttachHugePenis.jobString>
 
-  <AttachHorsePenis.label>attach equine penis</AttachHorsePenis.label>
-  <AttachHorsePenis.description>Attaches a equine penis.</AttachHorsePenis.description>
-  <AttachHorsePenis.jobString>Attaching equine penis.</AttachHorsePenis.jobString>
+  <AttachHorsePenis.label>馬のペニスを移植する</AttachHorsePenis.label>
+  <AttachHorsePenis.description>馬のペニスを移植します.</AttachHorsePenis.description>
+  <AttachHorsePenis.jobString>馬のペニスを移植中</AttachHorsePenis.jobString>
 
-  <AttachCatPenis.label>attach feline penis</AttachCatPenis.label>
-  <AttachCatPenis.description>Attaches a feline penis.</AttachCatPenis.description>
-  <AttachCatPenis.jobString>Attaching feline penis.</AttachCatPenis.jobString>
+  <AttachCatPenis.label>猫のペニスを移植する</AttachCatPenis.label>
+  <AttachCatPenis.description>猫のペニスを移植します.</AttachCatPenis.description>
+  <AttachCatPenis.jobString>猫のペニスを移植中</AttachCatPenis.jobString>
 
-  <AttachDogPenis.label>attach canine penis</AttachDogPenis.label>
-  <AttachDogPenis.description>Attaches a canine penis.</AttachDogPenis.description>
-  <AttachDogPenis.jobString>Attaching canine penis.</AttachDogPenis.jobString>
+  <AttachDogPenis.label>犬のペニスを移植する</AttachDogPenis.label>
+  <AttachDogPenis.description>犬のペニスを移植します.</AttachDogPenis.description>
+  <AttachDogPenis.jobString>犬のペニスを移植中</AttachDogPenis.jobString>
 
-  <AttachDragonPenis.label>attach dragon penis</AttachDragonPenis.label>
-  <AttachDragonPenis.description>Attaches a Dragon penis.</AttachDragonPenis.description>
-  <AttachDragonPenis.jobString>Attaching Dragon penis.</AttachDragonPenis.jobString>
+  <AttachDragonPenis.label>ドラゴンのペニスを移植する</AttachDragonPenis.label>
+  <AttachDragonPenis.description>ドラゴンのペニスを移植します.</AttachDragonPenis.description>
+  <AttachDragonPenis.jobString>ドラゴンのペニスを移植中</AttachDragonPenis.jobString>
 
 
   <!-- Breasts -->
 
-  <AttachFlatBreasts.label>attach flat breasts</AttachFlatBreasts.label>
-  <AttachFlatBreasts.description>Attaches a pair of flat breasts.</AttachFlatBreasts.description>
-  <AttachFlatBreasts.jobString>Attaching a pair of flat breasts.</AttachFlatBreasts.jobString>
+  <AttachFlatBreasts.label>平たい乳房を移植する</AttachFlatBreasts.label>
+  <AttachFlatBreasts.description>平たい乳房を移植します.</AttachFlatBreasts.description>
+  <AttachFlatBreasts.jobString>平たい乳房を移植中</AttachFlatBreasts.jobString>
 
-  <AttachSmallBreasts.label>attach small breasts</AttachSmallBreasts.label>
-  <AttachSmallBreasts.description>Attaches a pair of small breasts.</AttachSmallBreasts.description>
-  <AttachSmallBreasts.jobString>Attaching a pair of small breasts.</AttachSmallBreasts.jobString>
+  <AttachSmallBreasts.label>小さな乳房を移植する</AttachSmallBreasts.label>
+  <AttachSmallBreasts.description>小さな乳房を移植します.</AttachSmallBreasts.description>
+  <AttachSmallBreasts.jobString>小さな乳房を移植中</AttachSmallBreasts.jobString>
 
-  <AttachBreasts.label>attach normal breasts</AttachBreasts.label>
-  <AttachBreasts.description>Attaches a pair of breasts.</AttachBreasts.description>
-  <AttachBreasts.jobString>Attaching a pair of breasts.</AttachBreasts.jobString>
+  <AttachBreasts.label>普通の乳房を移植する</AttachBreasts.label>
+  <AttachBreasts.description>普通の乳房を移植します.</AttachBreasts.description>
+  <AttachBreasts.jobString>普通の乳房を移植中</AttachBreasts.jobString>
 
-  <AttachLargeBreasts.label>attach large breasts</AttachLargeBreasts.label>
-  <AttachLargeBreasts.description>Attaches a pair of large breasts.</AttachLargeBreasts.description>
-  <AttachLargeBreasts.jobString>Attaching a pair of large breasts.</AttachLargeBreasts.jobString>
+  <AttachLargeBreasts.label>大きな乳房を移植する</AttachLargeBreasts.label>
+  <AttachLargeBreasts.description>大きな乳房を移植します.</AttachLargeBreasts.description>
+  <AttachLargeBreasts.jobString>大きな乳房を移植中</AttachLargeBreasts.jobString>
 
-  <AttachHugeBreasts.label>attach huge breasts</AttachHugeBreasts.label>
-  <AttachHugeBreasts.description>Attaches a pair of huge breasts.</AttachHugeBreasts.description>
-  <AttachHugeBreasts.jobString>Attaching a pair of huge breasts.</AttachHugeBreasts.jobString>
+  <AttachHugeBreasts.label>巨大な乳房を移植する</AttachHugeBreasts.label>
+  <AttachHugeBreasts.description>巨大な乳房を移植します.</AttachHugeBreasts.description>
+  <AttachHugeBreasts.jobString>巨大な乳房を移植中</AttachHugeBreasts.jobString>
 
-  <InstallAnus.label>install normal anus</InstallAnus.label>
-  <InstallAnus.description>Installs an anus.</InstallAnus.description>
-  <InstallAnus.jobString>Installing an anus.</InstallAnus.jobString>
+  <InstallAnus.label>普通の肛門を移植する</InstallAnus.label>
+  <InstallAnus.description>普通の肛門を移植します.</InstallAnus.description>
+  <InstallAnus.jobString>普通の肛門を移植中</InstallAnus.jobString>
 
-  <InstallMicroAnus.label>install micro anus</InstallMicroAnus.label>
-  <InstallMicroAnus.description>Installs a micro anus.</InstallMicroAnus.description>
-  <InstallMicroAnus.jobString>Installing micro anus.</InstallMicroAnus.jobString>
+  <InstallMicroAnus.label>極小の肛門を移植する</InstallMicroAnus.label>
+  <InstallMicroAnus.description>極小の肛門を移植します.</InstallMicroAnus.description>
+  <InstallMicroAnus.jobString>極小の肛門を移植中</InstallMicroAnus.jobString>
 
-  <InstallTightAnus.label>install tight anus</InstallTightAnus.label>
-  <InstallTightAnus.description>Installs a tight anus.</InstallTightAnus.description>
-  <InstallTightAnus.jobString>Installing tight anus.</InstallTightAnus.jobString>
+  <InstallTightAnus.label>キツい肛門を移植する</InstallTightAnus.label>
+  <InstallTightAnus.description>キツい肛門を移植します.</InstallTightAnus.description>
+  <InstallTightAnus.jobString>キツい肛門を移植中</InstallTightAnus.jobString>
 
-  <InstallLooseAnus.label>install loose anus</InstallLooseAnus.label>
-  <InstallLooseAnus.description>Installs a loose anus.</InstallLooseAnus.description>
-  <InstallLooseAnus.jobString>Installing loose anus.</InstallLooseAnus.jobString>
+  <InstallLooseAnus.label>ユルい肛門を移植する</InstallLooseAnus.label>
+  <InstallLooseAnus.description>ユルい肛門を移植します.</InstallLooseAnus.description>
+  <InstallLooseAnus.jobString>ユルい肛門を移植中</InstallLooseAnus.jobString>
 
-  <InstallGapingAnus.label>install gaping anus</InstallGapingAnus.label>
-  <InstallGapingAnus.description>Installs a gaping anus.</InstallGapingAnus.description>
-  <InstallGapingAnus.jobString>Installing gaping anus.</InstallGapingAnus.jobString>
+  <InstallGapingAnus.label>拡がりきった肛門を移植する</InstallGapingAnus.label>
+  <InstallGapingAnus.description>拡がりきった肛門を移植します.</InstallGapingAnus.description>
+  <InstallGapingAnus.jobString>拡がりきった肛門を移植中</InstallGapingAnus.jobString>
 
 
   <!-- Attach simple prosthetic privates -->
 
-  <InstallHydraulicPenis.label>install hydraulic penis</InstallHydraulicPenis.label>
-  <InstallHydraulicPenis.description>Installs a hydraulic penis.</InstallHydraulicPenis.description>
-  <InstallHydraulicPenis.jobString>Installing hydraulic penis.</InstallHydraulicPenis.jobString>
+  <InstallHydraulicPenis.label>人工陰茎を移植する</InstallHydraulicPenis.label>
+  <InstallHydraulicPenis.description>人工陰茎を移植します.</InstallHydraulicPenis.description>
+  <InstallHydraulicPenis.jobString>人工陰茎を移植中</InstallHydraulicPenis.jobString>
 
-  <InstallHydraulicVagina.label>install hydraulic vagina</InstallHydraulicVagina.label>
-  <InstallHydraulicVagina.description>Installs a hydraulic vagina.</InstallHydraulicVagina.description>
-  <InstallHydraulicVagina.jobString>Installing hydraulic vagina.</InstallHydraulicVagina.jobString>
+  <InstallHydraulicVagina.label>人工膣を移植する</InstallHydraulicVagina.label>
+  <InstallHydraulicVagina.description>人工膣を移植します.</InstallHydraulicVagina.description>
+  <InstallHydraulicVagina.jobString>人工膣を移植中</InstallHydraulicVagina.jobString>
 
-  <InstallHydraulicBreasts.label>install hydraulic breasts</InstallHydraulicBreasts.label>
-  <InstallHydraulicBreasts.description>Installs a pair of hydraulic breasts.</InstallHydraulicBreasts.description>
-  <InstallHydraulicBreasts.jobString>Installing hydraulic breasts.</InstallHydraulicBreasts.jobString>
+  <InstallHydraulicBreasts.label>人工乳房を移植する</InstallHydraulicBreasts.label>
+  <InstallHydraulicBreasts.description>人工膣を移植します.</InstallHydraulicBreasts.description>
+  <InstallHydraulicBreasts.jobString>人工膣を移植中</InstallHydraulicBreasts.jobString>
 
-  <InstallHydraulicAnus.label>install hydraulic anus</InstallHydraulicAnus.label>
-  <InstallHydraulicAnus.description>Installs a hydraulic anus.</InstallHydraulicAnus.description>
-  <InstallHydraulicAnus.jobString>Installing hydraulic anus.</InstallHydraulicAnus.jobString>
+  <InstallHydraulicAnus.label>人工肛門を移植する</InstallHydraulicAnus.label>
+  <InstallHydraulicAnus.description>人工肛門を移植します.</InstallHydraulicAnus.description>
+  <InstallHydraulicAnus.jobString>人工肛門を移植中</InstallHydraulicAnus.jobString>
 
-  <AttachPegDick.label>attach peg dick</AttachPegDick.label>
-  <AttachPegDick.description>Attaches a peg dick.</AttachPegDick.description>
-  <AttachPegDick.jobString>Attaching peg dick.</AttachPegDick.jobString>
+  <AttachPegDick.label>木製ディルドを移植する</AttachPegDick.label>
+  <AttachPegDick.description>木製ディルドを移植します.</AttachPegDick.description>
+  <AttachPegDick.jobString>木製ディルドを移植中</AttachPegDick.jobString>
 
 
   <!-- Attach bionic privates -->
 
-  <InstallBionicVagina.label>install bionic vagina</InstallBionicVagina.label>
-  <InstallBionicVagina.description>Installs a bionic vagina.</InstallBionicVagina.description>
-  <InstallBionicVagina.jobString>Installing bionic vagina.</InstallBionicVagina.jobString>
+  <InstallBionicVagina.label>強化膣を移植する</InstallBionicVagina.label>
+  <InstallBionicVagina.description>強化膣を移植します.</InstallBionicVagina.description>
+  <InstallBionicVagina.jobString>強化膣を移植中</InstallBionicVagina.jobString>
 
-  <InstallBionicPenis.label>install bionic penis</InstallBionicPenis.label>
-  <InstallBionicPenis.description>Attaches a bionic penis.</InstallBionicPenis.description>
-  <InstallBionicPenis.jobString>Attaching bionic penis.</InstallBionicPenis.jobString>
+  <InstallBionicPenis.label>強化陰茎を移植する</InstallBionicPenis.label>
+  <InstallBionicPenis.description>強化陰茎を移植します.</InstallBionicPenis.description>
+  <InstallBionicPenis.jobString>強化陰茎を移植中</InstallBionicPenis.jobString>
 
-  <InstallBionicBreasts.label>install bionic breasts</InstallBionicBreasts.label>
-  <InstallBionicBreasts.description>Installs a pair of bionic breasts.</InstallBionicBreasts.description>
-  <InstallBionicBreasts.jobString>Installing bionic breasts.</InstallBionicBreasts.jobString>
+  <InstallBionicBreasts.label>強化乳房を移植する</InstallBionicBreasts.label>
+  <InstallBionicBreasts.description>強化乳房を移植します.</InstallBionicBreasts.description>
+  <InstallBionicBreasts.jobString>強化乳房を移植中</InstallBionicBreasts.jobString>
 
-  <InstallBionicAnus.label>install bionic anus</InstallBionicAnus.label>
-  <InstallBionicAnus.description>Installs a bionic anus.</InstallBionicAnus.description>
-  <InstallBionicAnus.jobString>Installing bionic anus.</InstallBionicAnus.jobString>
+  <InstallBionicAnus.label>強化肛門を移植する</InstallBionicAnus.label>
+  <InstallBionicAnus.description>強化肛門を移植します.</InstallBionicAnus.description>
+  <InstallBionicAnus.jobString>強化肛門を移植中</InstallBionicAnus.jobString>
 
 
 </LanguageData>
