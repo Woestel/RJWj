@@ -1,17 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <!-- targetsBodyPart>true</targetsBodyPart -->
-    <Sterilization.label>sterilization</Sterilization.label>
-    <Sterilization.description>Prevents reproduction without removing genitals.</Sterilization.description>
-    <Sterilization.jobString>sterilizing.</Sterilization.jobString>
-    <!-- IUD Sergery -->
-    <RJW_InstallIUD.label>子宮内避妊器具を挿入する</RJW_InstallIUD.label>
-    <RJW_InstallIUD.description>妊娠を一時的に防ぎます. いつでも取り除く事ができます.</RJW_InstallIUD.description>
-    <RJW_InstallIUD.jobString>子宮内避妊器具を挿入中</RJW_InstallIUD.jobString>
-    <RJW_RemovelIUD.label>子宮内避妊器具を取り外す</RJW_RemovelIUD.label>
-    <RJW_RemovelIUD.description>妊娠を一時的に防ぎます. いつでも取り除く事ができます.</RJW_RemovelIUD.description>
-    <RJW_RemovelIUD.jobString>子宮内避妊器具を取り外し中.</RJW_RemovelIUD.jobString>
-    <InstallPegArm.label>木製義腕(杖)を移植する</InstallPegArm.label>
-    <InstallPegArm.description>木製義腕(杖)を移植します.</InstallPegArm.description>
-    <InstallPegArm.jobString>木製義腕(杖)を移植中</InstallPegArm.jobString>
+
+  <!-- targetsBodyPart>true</targetsBodyPart -->
+
+  <Sterilization.label>sterilization</Sterilization.label>
+  <Sterilization.description>Prevents reproduction without removing genitals.</Sterilization.description>
+  <Sterilization.jobString>sterilizing.</Sterilization.jobString>
+
+
+  <!-- IUD Sergery -->
+
+  <RJW_InstallIUD.label>install IUD</RJW_InstallIUD.label>
+  <RJW_InstallIUD.description>Prevents reproduction temporaly. recoverble anytime.</RJW_InstallIUD.description>
+  <RJW_InstallIUD.jobString>installing IUD.</RJW_InstallIUD.jobString>
+
+  <RJW_RemovelIUD.label>remove IUD</RJW_RemovelIUD.label>
+  <RJW_RemovelIUD.description>Prevents reproduction temporaly. recoverble anytime.</RJW_RemovelIUD.description>
+  <RJW_RemovelIUD.jobString>removing IUD.</RJW_RemovelIUD.jobString>
+
+  <InstallPegArm.label>install peg arm</InstallPegArm.label>
+  <InstallPegArm.description>Install a peg arm.</InstallPegArm.description>
+  <InstallPegArm.jobString>Installing peg arm.</InstallPegArm.jobString>
+
+
 </LanguageData>

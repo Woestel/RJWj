@@ -1,14 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <!-- Simple prosthetic privates -->
-    <PegDick.label>木製のペニス</PegDick.label>
-    <HydraulicPenis.label>人工陰茎</HydraulicPenis.label>
-    <HydraulicVagina.label>人工膣</HydraulicVagina.label>
-    <HydraulicBreasts.label>人工乳房</HydraulicBreasts.label>
-    <HydraulicAnus.label>人工肛門</HydraulicAnus.label>
-    <!-- Bionic privates -->
-    <BionicPenis.label>強化陰茎</BionicPenis.label>
-    <BionicVagina.label>強化膣</BionicVagina.label>
-    <BionicBreasts.label>強化乳房</BionicBreasts.label>
-    <BionicAnus.label>強化肛門</BionicAnus.label>
+
+  <!-- Simple prosthetic privates -->
+
+  <PegDick.label>peg dick</PegDick.label>
+  <HydraulicPenis.label>hydraulic penis</HydraulicPenis.label>
+  <HydraulicVagina.label>hydraulic vagina</HydraulicVagina.label>
+  <HydraulicBreasts.label>hydraulic breasts</HydraulicBreasts.label>
+  <HydraulicAnus.label>hydraulic anus</HydraulicAnus.label>
+
+
+  <!-- Bionic privates -->
+
+  <BionicPenis.label>bionic penis</BionicPenis.label>
+  <BionicVagina.label>bionic vagina</BionicVagina.label>
+  <BionicBreasts.label>bionic breasts</BionicBreasts.label>
+  <BionicAnus.label>bionic anus</BionicAnus.label>
+
+
 </LanguageData>

@@ -1,10 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <!-- Dummy hediff: Triggers creation of real privates for newly created pawns -->
-    <DummyPrivates.label>dummy privates</DummyPrivates.label>
-    <!-- Placeholder hediffs for unsupported pawns? -->
-    <GenericPenis.label>ペニス</GenericPenis.label>
-    <GenericVagina.label>膣</GenericVagina.label>
-    <GenericBreasts.label>胸</GenericBreasts.label>
-    <GenericAnus.label>肛門</GenericAnus.label>
+
+  <!-- Dummy hediff: Triggers creation of real privates for newly created pawns -->
+
+  <DummyPrivates.label>dummy privates</DummyPrivates.label>
+
+
+  <!-- Placeholder hediffs for unsupported pawns? -->
+
+  <GenericPenis.label>generic penis</GenericPenis.label>
+  <GenericVagina.label>generic vagina</GenericVagina.label>
+  <GenericBreasts.label>generic breasts</GenericBreasts.label>
+  <GenericAnus.label>generic anus</GenericAnus.label>
+
+
 </LanguageData>

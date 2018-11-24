@@ -1,27 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <!-- Natural Penises -->
-    <Penis.label>普通のペニス</Penis.label>
-    <MicroPenis.label>極小のペニス</MicroPenis.label>
-    <SmallPenis.label>小さなペニス</SmallPenis.label>
-    <BigPenis.label>大きなペニス</BigPenis.label>
-    <HugePenis.label>巨大なペニス</HugePenis.label>
-    <!-- Natural Vaginas -->
-    <Vagina.label>普通のおまんこ</Vagina.label>
-    <MicroVagina.label>極小のおまんこ</MicroVagina.label>
-    <TightVagina.label>きつきつおまんこ</TightVagina.label>
-    <LooseVagina.label>ゆるゆるおまんこ</LooseVagina.label>
-    <GapingVagina.label>がばがばおまんこ</GapingVagina.label>
-    <!-- Natural Breasts -->
-    <Breasts.label>普乳</Breasts.label>
-    <FlatBreasts.label>まないた</FlatBreasts.label>
-    <SmallBreasts.label>貧乳</SmallBreasts.label>
-    <LargeBreasts.label>巨乳</LargeBreasts.label>
-    <HugeBreasts.label>爆乳</HugeBreasts.label>
-    <!-- Natural anuses -->
-    <Anus.label>普通のアナル</Anus.label>
-    <MicroAnus.label>極小のアナル</MicroAnus.label>
-    <TightAnus.label>きつきつのアナル</TightAnus.label>
-    <LooseAnus.label>ゆるゆるのアナル</LooseAnus.label>
-    <GapingAnus.label>がばがばのアナル</GapingAnus.label>
+
+  <!-- Regular privates -->
+
+  <Penis.label>average penis</Penis.label>
+
+
+  <!-- Additional dick sizes -->
+
+  <MicroPenis.label>micro penis</MicroPenis.label>
+  <SmallPenis.label>small penis</SmallPenis.label>
+  <BigPenis.label>Big Penis</BigPenis.label>
+  <HugePenis.label>Huge penis</HugePenis.label>
+  <Vagina.label>average vagina</Vagina.label>
+  <MicroVagina.label>micro vagina</MicroVagina.label>
+  <TightVagina.label>tight vagina</TightVagina.label>
+  <LooseVagina.label>loose vagina</LooseVagina.label>
+  <GapingVagina.label>gaping vagina</GapingVagina.label>
+
+
+  <!-- Natural Breasts -->
+
+  <Breasts.label>average breasts</Breasts.label>
+  <FlatBreasts.label>flat breasts</FlatBreasts.label>
+  <SmallBreasts.label>small breasts</SmallBreasts.label>
+  <LargeBreasts.label>large breasts</LargeBreasts.label>
+  <HugeBreasts.label>huge breasts</HugeBreasts.label>
+
+
+  <!-- Natural anuses -->
+
+  <Anus.label>average anus</Anus.label>
+  <MicroAnus.label>micro anus</MicroAnus.label>
+  <TightAnus.label>tight anus</TightAnus.label>
+  <LooseAnus.label>loose anus</LooseAnus.label>
+  <GapingAnus.label>gaping anus</GapingAnus.label>
+
+
 </LanguageData>

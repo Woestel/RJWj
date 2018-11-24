@@ -3,48 +3,71 @@
   <!-- Settings-->
   <WildMode_name>Wild mode</WildMode_name>
   <WildMode_desc>EXPERIMENTAL. No rules for sex. All limiting requirements are turned off. Enjoy the wildest side of Rimworld.</WildMode_desc>
-  <DevMode_name>Development mode</DevMode_name>
-  <DevMode_desc>Enables RimJobWorld logging. You don't usually want this enabled.</DevMode_desc>
+
   <sexneed_decay_rate_name>Sex need decay multiplier (%)</sexneed_decay_rate_name>
   <sexneed_decay_rate_desc>0% for no decay.\n1000000% for Rapeturnus Planet.</sexneed_decay_rate_desc>
   <NymphsJoin>Nymphomaniacs</NymphsJoin>
   <NymphsJoin_desc>Spawns pawns with nymphomaniac trait to join the colony.</NymphsJoin_desc>
   <STD_FromFloors>STDs from environment</STD_FromFloors>
   <STD_FromFloors_desc>Pawns will catch STDs from dirty environment.</STD_FromFloors_desc>
-  <PrisonersBeating>Rape beatings</PrisonersBeating>
-  <PrisonersBeating_desc>Pawns will beat the hell out of victims while raping them.</PrisonersBeating_desc>
-  <OffspringLookLikeTheirMother>Humanlike mother/father inheritance (%)</OffspringLookLikeTheirMother>
-  <OffspringLookLikeTheirMother_desc>Governs interracial pregnancies. \n100% means born babies will be of mothers race only. At 0% race is defined by father exclusively.\n\nValid range: 0 - 100%</OffspringLookLikeTheirMother_desc>
-  <OffspringIsHuman>Humanlike/Monster DNA inheritance (%)</OffspringIsHuman>
-  <OffspringIsHuman_desc>Governs close encounters of the Seventh kind.\n100% means born babies will be like their humanoid parent. At 0% child is always of same species as non-humanlike parent.\n\nValid range: 0 - 100%</OffspringIsHuman_desc>
-  <PregnantCoeffecientForHuman>Human Pregnancy chances (%)</PregnantCoeffecientForHuman>
-  <PregnantCoeffecientForHuman_desc>Human pregnancy chances in percent.\n\nValid range: 0 - 100%</PregnantCoeffecientForHuman_desc>
-  <PregnantCoeffecientForAnimals>Animal pregnancy chances (%)</PregnantCoeffecientForAnimals>
-  <PregnantCoeffecientForAnimals_desc>Animal pregnancy chances in percent.\n\nValid range: 0 - 100%</PregnantCoeffecientForAnimals_desc>
-  <UseParentMethod>Babies are like mothers</UseParentMethod>
-  <UseParentMethod_desc>Disables the DNA inheritance settings and sets baby to mothers race always.</UseParentMethod_desc>
-  <SexFreeForAllAge>Free sex min. age</SexFreeForAllAge>
-  <SexFreeForAllAge_desc>Pawns younger than this will only have sex with pawns with 2 years age difference.</SexFreeForAllAge_desc>
   <SexMinimumAge>Sex min. age</SexMinimumAge>
   <SexMinimumAge_desc>Pawns younger than this will not have sex at all.</SexMinimumAge_desc>
-  <NonFutaWomenRaping_MaxVulnerability>Girls go rapin' (%)</NonFutaWomenRaping_MaxVulnerability>
-  <NonFutaWomenRaping_MaxVulnerability_desc>Only women with vulnerability lower than this will ever rape others.<br /><br />To check 'vulnerability' status, go to 'view information about this object' &gt; stats.\n\nValid range: 0 - 300%</NonFutaWomenRaping_MaxVulnerability_desc>
-  <Rapee_MinVulnerability_human>'To-be raped' vulnerability (%)</Rapee_MinVulnerability_human>
-  <Rapee_MinVulnerability_human_desc>Human pawns with vulnerability higher than this will be raping targets.<br /><br />To check 'vulnerability' status, go to 'view information about this object' &gt; stats.\n\nValid range: 0 - 300%</Rapee_MinVulnerability_human_desc>
-  <Rapee_MinVulnerability_animals>Animals' to-be-raped vulnerability (%)</Rapee_MinVulnerability_animals>
-  <Rapee_MinVulnerability_animals_desc>Animals with vulnerability higher than this will be raping targets for zoophiles.<br /><br />To check 'vulnerability' status, go to 'view information about this object' &gt; stats.\n\nValid range: 0 - 300%</Rapee_MinVulnerability_animals_desc>
+  <SexFreeForAllAge>Free sex min. age</SexFreeForAllAge>
+  <SexFreeForAllAge_desc>Pawns younger than this will only have sex with pawns with 2 years age difference.</SexFreeForAllAge_desc>
   <submit_button_enabled>Enable "submit" button on drafted pawns.</submit_button_enabled>
   <submit_button_enabled_desc>Submit button allows you to skip more deadly part and get right to more humilating one. \nDisable ths if honor comes before life for you. \nRemember, if you change your mind, it will always be here, waiting for you.</submit_button_enabled_desc>
   <animals_enabled>Enable animals.</animals_enabled>
   <animals_enabled_desc>Enable acts of zoophilia. Desired and not so much.</animals_enabled_desc>
-  <cross_species_breeding>Enable pregnancies between humanlikes and animals.</cross_species_breeding>
-  <cross_species_breeding_desc>Controlls whether consorting with beast results in babies. Needs "Enable animals" for anything to happen.</cross_species_breeding_desc>
-  <CP_pregnancy>Use RimWorldChildren for pregnancies between humanlikes.</CP_pregnancy>
+  <RJW_designation_box>Show RJW designations.</RJW_designation_box>
+  <RJW_designation_box_desc>Toggles showing RJW group of buttons in the pawn control GUI.</RJW_designation_box_desc>
+
+  <!-- Rape stuff-->
+  <PrisonersBeating>Rape beatings</PrisonersBeating>
+  <PrisonersBeating_desc>Pawns will beat the hell out of victims while raping them.</PrisonersBeating_desc>
+  <NonFutaWomenRaping_MaxVulnerability>Girls go rapin' (%)</NonFutaWomenRaping_MaxVulnerability>
+  <NonFutaWomenRaping_MaxVulnerability_desc>Only women with vulnerability lower than this will ever rape others.To check 'vulnerability' status, go to 'view information about this object' &gt; stats.\n\nValid range: 0 - 300%</NonFutaWomenRaping_MaxVulnerability_desc>
+  <Rapee_MinVulnerability_human>'To-be raped' vulnerability (%)</Rapee_MinVulnerability_human>
+  <Rapee_MinVulnerability_human_desc>Human pawns with vulnerability higher than this will be raping targets.To check 'vulnerability' status, go to 'view information about this object' &gt; stats.\n\nValid range: 0 - 300%</Rapee_MinVulnerability_human_desc>
+  <Rapee_MinVulnerability_animals>Animals' to-be-raped vulnerability (%)</Rapee_MinVulnerability_animals>
+  <Rapee_MinVulnerability_animals_desc>Animals with vulnerability higher than this will be raping targets for zoophiles.To check 'vulnerability' status, go to 'view information about this object' &gt; stats.\n\nValid range: 0 - 300%</Rapee_MinVulnerability_animals_desc>
+
+  <!-- Pregnancy stuff-->
+  <RJWH_pregnancy>Enable RJW humanlies pregnancies.</RJWH_pregnancy>
+  <RJWH_pregnancy_desc>Use RJW pregnancy for human-human pregnancies.</RJWH_pregnancy_desc>
+  <PregnantCoeffecientForHuman>Human Pregnancy chances (%)</PregnantCoeffecientForHuman>
+  <PregnantCoeffecientForHuman_desc>Human pregnancy chances in percent.\n\nValid range: 0 - 100%</PregnantCoeffecientForHuman_desc>
+  <RJWB_pregnancy>Enable RJW bestiality pregnancies.</RJWB_pregnancy>
+  <RJWB_pregnancy_desc>Use RJW pregnancy for human-animal pregnancies.</RJWB_pregnancy_desc>
+  <PregnantCoeffecientForAnimals>Animal pregnancy chances (%)</PregnantCoeffecientForAnimals>
+  <PregnantCoeffecientForAnimals_desc>Animal pregnancy chances in percent.\n\nValid range: 0 - 100%</PregnantCoeffecientForAnimals_desc>
+  <UseParentMethod>Babies are like mothers</UseParentMethod>
+  <UseParentMethod_desc>Disables the DNA inheritance settings and sets baby to mothers race always.</UseParentMethod_desc>
+  <OffspringLookLikeTheirMother>Humanlike mother/father inheritance (%)</OffspringLookLikeTheirMother>
+  <OffspringLookLikeTheirMother_desc>Governs interracial pregnancies. \n100% means born babies will be of mothers race only. At 0% race is defined by father exclusively.\n\nValid range: 0 - 100%</OffspringLookLikeTheirMother_desc>
+  <OffspringIsHuman>Humanlike/Monster DNA inheritance (%)</OffspringIsHuman>
+  <OffspringIsHuman_desc>Governs close encounters of the Seventh kind.\n100% means born babies will be like their humanoid parent. At 0% child is always of same species as non-humanlike parent.\n\nValid range: 0 - 100%</OffspringIsHuman_desc>
+  <RJWI_pregnancy>Enable RJW insect pregnancies.</RJWI_pregnancy>
+  <RJWI_pregnancy_desc>Use RJW pregnancy for human-insect pregnancies.</RJWI_pregnancy_desc>
+  <RJWM_pregnancy>Enable RJW mechanoid pregnancies.</RJWM_pregnancy>
+  <RJWM_pregnancy_desc>Use RJW pregnancy for human-mechanoid pregnancies.</RJWM_pregnancy_desc>
+
+  <CP_pregnancy>Use RimWorldChildren pregnancy for pregnancies between humanlikes.</CP_pregnancy>
   <CP_pregnancy_desc>Controlls whether RJW should use own pregnancy or RimWorldChildren for human-human pregnancies.</CP_pregnancy_desc>
   <genetic_trait_filter>Filter out traits to be inherited</genetic_trait_filter>
   <genetic_trait_filter_desc>If enabled, it will use the rjw/Defs/NonInheritedTraits.xml to filter out the traits that should not be passed to next generation. If disabled, everything is a fair game.</genetic_trait_filter_desc>
-  <RJW_designation_box>Show RJW designations.</RJW_designation_box>
-  <RJW_designation_box_desc>Toggles showing RJW group of buttons in the pawn control GUI.</RJW_designation_box_desc>
+
+  <RJW_fertility_endAge_male>Max male fertility age(%)</RJW_fertility_endAge_male>
+  <RJW_fertility_endAge_male_desc>Male lifeExpectancy * %</RJW_fertility_endAge_male_desc>
+  <RJW_fertility_endAge_female>Max female fertility age(%)</RJW_fertility_endAge_female>
+  <RJW_fertility_endAge_female_desc>Female lifeExpectancy * %</RJW_fertility_endAge_female_desc>
+
+  <!-- useless stuff-->
+  <DevMode_name>Development mode</DevMode_name>
+  <DevMode_desc>Enables RimJobWorld logging. You don't usually want this enabled.</DevMode_desc>
+
+
+
+
 
   <!-- Bed -->
   <ForWhoreUse>For Whore Use</ForWhoreUse>
@@ -110,6 +133,9 @@
   <RJW_ABaby>her baby.</RJW_ABaby>
   <RJW_NBabies>her {0} babies.</RJW_NBabies>
   <RJW_PregnantStrange>Something is unusual about the baby...</RJW_PregnantStrange>
+  <RJW_GaveBirthEggTitle>Birthed egg.</RJW_GaveBirthEggTitle>
+  <RJW_GaveBirthEggText>{0} gave birth to eggs</RJW_GaveBirthEggText>
+  <RJW_EggContractions>{0} is having contractions! Eggs are on the way!</RJW_EggContractions>
 
   <!--Comfort designation-->
   <ForComfort>Use for comfort</ForComfort>

@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <HorsePenis.label>馬のペニス</HorsePenis.label>
-    <HorseVagina.label>馬の膣</HorseVagina.label>
-    <CatPenis.label>猫のペニス</CatPenis.label>
-    <CatVagina.label>猫の膣</CatVagina.label>
-    <DogPenis.label>犬のペニス</DogPenis.label>
-    <DogVagina.label>犬の膣</DogVagina.label>
-    <DragonPenis.label>ドラゴンのペニス</DragonPenis.label>
-    <DragonVagina.label>ドラゴンの膣</DragonVagina.label>
+
+  <HorsePenis.label>equine penis</HorsePenis.label>
+  <HorseVagina.label>equine vagina</HorseVagina.label>
+  <CatPenis.label>feline penis</CatPenis.label>
+  <CatVagina.label>feline vagina</CatVagina.label>
+  <DogPenis.label>canine penis</DogPenis.label>
+  <DogVagina.label>canine vagina</DogVagina.label>
+  <DragonPenis.label>dragon penis</DragonPenis.label>
+  <DragonVagina.label>dragon vagina</DragonVagina.label>
+
+
 </LanguageData>

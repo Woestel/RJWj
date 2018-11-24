@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Used for JobDriver_RapeEnemyByInsect. Insects plant egg when success rape. -->
+  <!-- 60,000 ticks is one in-game day regardless of game speed -->
 
-  <RJW_MegascarabEgg.label>Megascarab's Egg</RJW_MegascarabEgg.label>
-  <RJW_MegaspiderEgg.label>Megaspider's Egg</RJW_MegaspiderEgg.label>
-  <RJW_SpelopedeEgg.label>Spelopede's Egg</RJW_SpelopedeEgg.label>
+  <RJW_MegascarabEgg.label>Megascarab Egg</RJW_MegascarabEgg.label>
+  <RJW_SpelopedeEgg.label>Spelopede Egg</RJW_SpelopedeEgg.label>
+  <RJW_MegaspiderEgg.label>Megaspider Egg</RJW_MegaspiderEgg.label>
+  <RJW_ROMA_SpiderEgg.label>Spider Egg</RJW_ROMA_SpiderEgg.label>
+  <RJW_ROMA_GiantSpiderEgg.label>Giant Spider Egg</RJW_ROMA_GiantSpiderEgg.label>
+  <RJW_ROMA_GiantQueenSpiderEgg.label>Giant Spider Queen Egg</RJW_ROMA_GiantQueenSpiderEgg.label>
 
 
 </LanguageData>

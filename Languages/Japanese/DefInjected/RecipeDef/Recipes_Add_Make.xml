@@ -11,4 +11,11 @@
   <Make_RJW_Contraceptive.jobString>Making Contraception pills.</Make_RJW_Contraceptive.jobString>
 
 
+  <!-- Recipe Users: CraftingSpot, DrugLab -->
+
+  <Make_Aphrodisiac.label>make Aphrodisiac drug</Make_Aphrodisiac.label>
+  <Make_Aphrodisiac.description>Make Aphrodisiac drug.</Make_Aphrodisiac.description>
+  <Make_Aphrodisiac.jobString>Making Aphrodisiac drug.</Make_Aphrodisiac.jobString>
+
+
 </LanguageData>

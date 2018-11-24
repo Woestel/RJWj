@@ -1,8 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <!-- Slime privates -->
-    <SlimeTentacles.label>スライムの触手</SlimeTentacles.label>
-    <SlimeVagina.label>スライムの膣</SlimeVagina.label>
-    <SlimeBreasts.label>スライムの胸</SlimeBreasts.label>
-    <SlimeAnus.label>スライムの肛門</SlimeAnus.label>
+
+  <!-- Slime privates -->
+
+  <SlimeTentacles.label>slime tentacles</SlimeTentacles.label>
+  <SlimeVagina.label>slime vagina</SlimeVagina.label>
+  <SlimeBreasts.label>slime breasts</SlimeBreasts.label>
+  <SlimeAnus.label>slime anus</SlimeAnus.label>
+
+
 </LanguageData>

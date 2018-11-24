@@ -1,47 +1,76 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <!-- Natural Penises -->
-    <Penis.label>普通のペニス</Penis.label>
-    <Penis.description>摘出された普通のペニスです. A severed penis. It's average size, and that's fine. Nothing wrong with that at all. Really, it's OK. There's no shame in being average. It's just... you know... just average.</Penis.description>
-    <MicroPenis.label>極小ペニス</MicroPenis.label>
-    <MicroPenis.description>摘出された小指で……おっと, なんでもありませんよ.</MicroPenis.description>
-    <SmallPenis.label>小さなペニス</SmallPenis.label>
-    <SmallPenis.description>摘出された小さなペニスです, これをカットされたご本人が, カッとならない大きな心の持ち主であることを願いますね.</SmallPenis.description>
-    <BigPenis.label>大きなペニス</BigPenis.label>
-    <BigPenis.description>摘出された大きなペニスです.</BigPenis.description>
-    <HugePenis.label>巨大なペニス</HugePenis.label>
-    <HugePenis.description>摘出された巨大なペニスです.</HugePenis.description>
-    <!-- Natural Vaginas -->
-    <Vagina.label>普通の膣</Vagina.label>
-    <Vagina.description>摘出された膣, 平均的なサイズです.</Vagina.description>
-    <MicroVagina.label>極小の膣</MicroVagina.label>
-    <MicroVagina.description>摘出された極小の膣, 何を挿れるにしてもあまりに小さい.</MicroVagina.description>
-    <TightVagina.label>キツい膣</TightVagina.label>
-    <TightVagina.description>摘出されたキツい膣, ほとんどのペニスを良く締め付ける.</TightVagina.description>
-    <LooseVagina.label>ユルい膣</LooseVagina.label>
-    <LooseVagina.description>摘出されたユルい膣, ほとんどのペニスを簡単に挿入する事ができる.</LooseVagina.description>
-    <GapingVagina.label>拡がりきった膣</GapingVagina.label>
-    <GapingVagina.description>摘出された拡がりきった膣, 巨大な怪物のペニスケースです.</GapingVagina.description>
-    <!-- Natural Breasts -->
-    <Breasts.label>普通の乳房</Breasts.label>
-    <Breasts.description>摘出された一揃えのＣカップの胸です.</Breasts.description>
-    <FlatBreasts.label>平たい乳房</FlatBreasts.label>
-    <FlatBreasts.description>摘出された一揃えのＡＡカップの胸です.</FlatBreasts.description>
-    <SmallBreasts.label>小さな乳房</SmallBreasts.label>
-    <SmallBreasts.description>摘出された一揃えのＡカップの胸です.</SmallBreasts.description>
-    <LargeBreasts.label>大きな乳房</LargeBreasts.label>
-    <LargeBreasts.description>摘出された一揃えのＥカップの胸です.</LargeBreasts.description>
-    <HugeBreasts.label>巨大な乳房</HugeBreasts.label>
-    <HugeBreasts.description>摘出された一揃えのＨカップの胸です.</HugeBreasts.description>
-    <!-- Natural Anuses -->
-    <Anus.label>普通の肛門</Anus.label>
-    <Anus.description>摘出された肛門です.</Anus.description>
-    <MicroAnus.label>極小の肛門</MicroAnus.label>
-    <MicroAnus.description>摘出された極小の肛門です. 日常の生活にすら困りそうですね.</MicroAnus.description>
-    <TightAnus.label>キツい肛門</TightAnus.label>
-    <TightAnus.description>摘出されたキツい肛門です.</TightAnus.description>
-    <LooseAnus.label>ユルい肛門</LooseAnus.label>
-    <LooseAnus.description>ドーナツみたいだろう？ 冗談だ, 肛門だよ.</LooseAnus.description>
-    <GapingAnus.label>拡がりきった肛門</GapingAnus.label>
-    <GapingAnus.description>あなたが深淵を覗くとき、深淵もまたあなたを覗いている……. これは大きく開いた肛門だ, オムツは付属していない.</GapingAnus.description>
+
+  <!-- Natural Penises -->
+
+  <Penis.label>average penis</Penis.label>
+  <Penis.description>A severed penis. It's average size, and that's fine. Nothing wrong with that at all. Really, it's OK. There's no shame in being average. It's just... you know... just average.</Penis.description>
+
+  <MicroPenis.label>micro penis</MicroPenis.label>
+  <MicroPenis.description>A severed pinky. Uh, no wait...</MicroPenis.description>
+
+  <SmallPenis.label>small penis</SmallPenis.label>
+  <SmallPenis.description>A severed penis. It's rather small, so I hope you've got a great severed personality.</SmallPenis.description>
+
+  <BigPenis.label>big penis</BigPenis.label>
+  <BigPenis.description>A large severed penis.</BigPenis.description>
+
+  <HugePenis.label>huge penis</HugePenis.label>
+  <HugePenis.description>A huge severed penis.</HugePenis.description>
+
+
+  <!-- Natural Vaginas -->
+
+  <Vagina.label>average vagina</Vagina.label>
+  <Vagina.description>A severed vagina. Average size.</Vagina.description>
+
+  <MicroVagina.label>micro vagina</MicroVagina.label>
+  <MicroVagina.description>A severed micro vagina. Too small for anything.</MicroVagina.description>
+
+  <TightVagina.label>tight vagina</TightVagina.label>
+  <TightVagina.description>A severed tight vagina. Tight for most penises.</TightVagina.description>
+
+  <LooseVagina.label>loose vagina</LooseVagina.label>
+  <LooseVagina.description>A severed loose vagina. Most penises can slide inside it with ease.</LooseVagina.description>
+
+  <GapingVagina.label>gaping vagina</GapingVagina.label>
+  <GapingVagina.description>A severed gaping vagina. Sweet home for giagantic monster cocks.</GapingVagina.description>
+
+
+  <!-- Natural Breasts -->
+
+  <Breasts.label>average breasts</Breasts.label>
+  <Breasts.description>A pair of severed C-cup breasts.</Breasts.description>
+
+  <FlatBreasts.label>flat breasts</FlatBreasts.label>
+  <FlatBreasts.description>A pair of severed AA-cup breasts.</FlatBreasts.description>
+
+  <SmallBreasts.label>small breasts</SmallBreasts.label>
+  <SmallBreasts.description>A pair of severed A-cup breasts.</SmallBreasts.description>
+
+  <LargeBreasts.label>large breasts</LargeBreasts.label>
+  <LargeBreasts.description>A pair of severed E-cup breasts.</LargeBreasts.description>
+
+  <HugeBreasts.label>huge breasts</HugeBreasts.label>
+  <HugeBreasts.description>A pair of severed H-cup breasts.</HugeBreasts.description>
+
+
+  <!-- Natural Anuses -->
+
+  <Anus.label>average anus</Anus.label>
+  <Anus.description>A severed anus.</Anus.description>
+
+  <MicroAnus.label>micro anus</MicroAnus.label>
+  <MicroAnus.description>A severed micro anus. Even satistying natural needs would be hard with it.</MicroAnus.description>
+
+  <TightAnus.label>tight anus</TightAnus.label>
+  <TightAnus.description>A severed tight anus.</TightAnus.description>
+
+  <LooseAnus.label>loose anus</LooseAnus.label>
+  <LooseAnus.description>Hey, look a donut. Just kidding, it's an anus.</LooseAnus.description>
+
+  <GapingAnus.label>gaping anus</GapingAnus.label>
+  <GapingAnus.description>When you look into the darkness the darkness looks into you. It's an anus, gaping, diapers not included.</GapingAnus.description>
+
+
 </LanguageData>

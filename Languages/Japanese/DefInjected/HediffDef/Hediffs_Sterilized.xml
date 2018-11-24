@@ -1,4 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <Sterilized.label>断種された</Sterilized.label>
+
+  <Sterilized.label>sterilized</Sterilized.label>
+
+
 </LanguageData>
